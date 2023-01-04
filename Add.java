@@ -4,6 +4,7 @@ Hi,
 	and then it should be commited to
 	local repo.
 	This is the second change i am goin to made.
+	This is the third change i am going to make
 
 	Then we have to create a repo in remote repository
 	and then we have to make a link between local repo 
